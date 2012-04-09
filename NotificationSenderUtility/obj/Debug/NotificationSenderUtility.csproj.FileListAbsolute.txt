@@ -1,0 +1,20 @@
+C:\WP7SLTrainingKitOffline\Labs\UsingPushNotifications\Source\Ex2-TileToastNotifications\End\NotificationSenderUtility\bin\Debug\NotificationSenderUtility.dll
+C:\WP7SLTrainingKitOffline\Labs\UsingPushNotifications\Source\Ex2-TileToastNotifications\End\NotificationSenderUtility\bin\Debug\NotificationSenderUtility.pdb
+C:\WP7SLTrainingKitOffline\Labs\UsingPushNotifications\Source\Ex2-TileToastNotifications\End\NotificationSenderUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\WP7SLTrainingKitOffline\Labs\UsingPushNotifications\Source\Ex2-TileToastNotifications\End\NotificationSenderUtility\obj\Debug\NotificationSenderUtility.dll
+C:\WP7SLTrainingKitOffline\Labs\UsingPushNotifications\Source\Ex2-TileToastNotifications\End\NotificationSenderUtility\obj\Debug\NotificationSenderUtility.pdb
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\NotificationSenderUtility\bin\Debug\NotificationSenderUtility.dll
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\NotificationSenderUtility\bin\Debug\NotificationSenderUtility.pdb
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\NotificationSenderUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\NotificationSenderUtility\obj\Debug\NotificationSenderUtility.dll
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\NotificationSenderUtility\obj\Debug\NotificationSenderUtility.pdb
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\NotificationSenderUtility\bin\Debug\NotificationSenderUtility.dll
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\NotificationSenderUtility\bin\Debug\NotificationSenderUtility.pdb
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\NotificationSenderUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\NotificationSenderUtility\obj\Debug\NotificationSenderUtility.dll
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\NotificationSenderUtility\obj\Debug\NotificationSenderUtility.pdb
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\NotificationSenderUtility\bin\Debug\NotificationSenderUtility.dll
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\NotificationSenderUtility\bin\Debug\NotificationSenderUtility.pdb
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\NotificationSenderUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\NotificationSenderUtility\obj\Debug\NotificationSenderUtility.dll
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\NotificationSenderUtility\obj\Debug\NotificationSenderUtility.pdb

@@ -1,0 +1,84 @@
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\Weather\bin\Debug\WeatherService.exe.config
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\Weather\bin\Debug\WeatherService.exe
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\Weather\bin\Debug\WeatherService.pdb
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\Weather\bin\Debug\NotificationSenderUtility.dll
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\Weather\bin\Debug\NotificationSenderUtility.pdb
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\Weather\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\Weather\obj\x86\Debug\App.baml
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\Weather\obj\x86\Debug\MainWindow.g.cs
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\Weather\obj\x86\Debug\PushNotificationsLogViewer.g.cs
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\Weather\obj\x86\Debug\App.g.cs
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\Weather\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\Weather\obj\x86\Debug\WeatherService_MarkupCompile.cache
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\Weather\obj\x86\Debug\WeatherService_MarkupCompile.lref
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\Weather\obj\x86\Debug\MainWindow.baml
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\Weather\obj\x86\Debug\PushNotificationsLogViewer.baml
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\Weather\obj\x86\Debug\WeatherService.g.resources
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\Weather\obj\x86\Debug\WeatherService.Properties.Resources.resources
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\Weather\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\Weather\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\Weather\obj\x86\Debug\WeatherService.exe
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\Weather\obj\x86\Debug\WeatherService.pdb
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\Weather\bin\Debug\WeatherService.exe.config
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\WeatherService.exe
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\WeatherService.pdb
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\Weather\bin\Debug\WeatherService.exe
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\Weather\bin\Debug\WeatherService.pdb
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\Weather\bin\Debug\NotificationSenderUtility.dll
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\Weather\bin\Debug\NotificationSenderUtility.pdb
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\App.baml
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\MainWindow.g.cs
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\PushNotificationsLogViewer.g.cs
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\App.g.cs
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\WeatherService_MarkupCompile.cache
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\WeatherService_MarkupCompile.lref
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\MainWindow.baml
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\PushNotificationsLogViewer.baml
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\WeatherService.g.resources
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\WeatherService.Properties.Resources.resources
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\Weather\bin\Debug\WeatherService.exe.config
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\WeatherService.exe
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\WeatherService.pdb
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\Weather\bin\Debug\WeatherService.exe
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\Weather\bin\Debug\WeatherService.pdb
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\Weather\bin\Debug\NotificationSenderUtility.dll
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\Weather\bin\Debug\NotificationSenderUtility.pdb
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\App.baml
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\MainWindow.g.cs
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\PushNotificationsLogViewer.g.cs
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\App.g.cs
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\WeatherService_MarkupCompile.cache
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\WeatherService_MarkupCompile.lref
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\MainWindow.baml
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\PushNotificationsLogViewer.baml
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\WeatherService.g.resources
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\WeatherService.Properties.Resources.resources
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\Weather\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\Notification_server\bin\Debug\WeatherService.exe.config
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\Notification_server\obj\x86\Debug\WeatherService.exe
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\Notification_server\obj\x86\Debug\WeatherService.pdb
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\Notification_server\bin\Debug\WeatherService.exe
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\Notification_server\bin\Debug\WeatherService.pdb
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\Notification_server\bin\Debug\NotificationSenderUtility.dll
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\Notification_server\bin\Debug\NotificationSenderUtility.pdb
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\Notification_server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\Notification_server\obj\x86\Debug\App.baml
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\Notification_server\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\Notification_server\obj\x86\Debug\PushNotificationsLogViewer.g.cs
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\Notification_server\obj\x86\Debug\App.g.cs
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\Notification_server\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\Notification_server\obj\x86\Debug\WeatherService_MarkupCompile.cache
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\Notification_server\obj\x86\Debug\WeatherService_MarkupCompile.lref
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\Notification_server\obj\x86\Debug\MainWindow.baml
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\Notification_server\obj\x86\Debug\PushNotificationsLogViewer.baml
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\Notification_server\obj\x86\Debug\WeatherService.g.resources
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\Notification_server\obj\x86\Debug\WeatherService.Properties.Resources.resources
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\Notification_server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\Notification_server\obj\x86\Debug\GenerateResource.write.1.tlog

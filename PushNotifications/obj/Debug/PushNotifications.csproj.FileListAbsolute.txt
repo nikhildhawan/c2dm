@@ -1,0 +1,65 @@
+C:\WP7SLTrainingKitOffline\Labs\UsingPushNotifications\Source\Ex2-TileToastNotifications\End\PushNotifications\Bin\Debug\ApplicationIcon.png
+C:\WP7SLTrainingKitOffline\Labs\UsingPushNotifications\Source\Ex2-TileToastNotifications\End\PushNotifications\Bin\Debug\Background.png
+C:\WP7SLTrainingKitOffline\Labs\UsingPushNotifications\Source\Ex2-TileToastNotifications\End\PushNotifications\Bin\Debug\PushNotifications.dll
+C:\WP7SLTrainingKitOffline\Labs\UsingPushNotifications\Source\Ex2-TileToastNotifications\End\PushNotifications\Bin\Debug\PushNotifications.pdb
+C:\WP7SLTrainingKitOffline\Labs\UsingPushNotifications\Source\Ex2-TileToastNotifications\End\PushNotifications\Bin\Debug\AppManifest.xaml
+C:\WP7SLTrainingKitOffline\Labs\UsingPushNotifications\Source\Ex2-TileToastNotifications\End\PushNotifications\Bin\Debug\PushNotifications.xap
+C:\WP7SLTrainingKitOffline\Labs\UsingPushNotifications\Source\Ex2-TileToastNotifications\End\PushNotifications\obj\Debug\ResolveAssemblyReference.cache
+C:\WP7SLTrainingKitOffline\Labs\UsingPushNotifications\Source\Ex2-TileToastNotifications\End\PushNotifications\obj\Debug\App.g.i.cs
+C:\WP7SLTrainingKitOffline\Labs\UsingPushNotifications\Source\Ex2-TileToastNotifications\End\PushNotifications\obj\Debug\MainPage.g.i.cs
+C:\WP7SLTrainingKitOffline\Labs\UsingPushNotifications\Source\Ex2-TileToastNotifications\End\PushNotifications\obj\Debug\PushNotifications.g.resources
+C:\WP7SLTrainingKitOffline\Labs\UsingPushNotifications\Source\Ex2-TileToastNotifications\End\PushNotifications\obj\Debug\PushNotifications.dll
+C:\WP7SLTrainingKitOffline\Labs\UsingPushNotifications\Source\Ex2-TileToastNotifications\End\PushNotifications\obj\Debug\PushNotifications.pdb
+C:\WP7SLTrainingKitOffline\Labs\UsingPushNotifications\Source\Ex2-TileToastNotifications\End\PushNotifications\obj\Debug\XapCacheFile.xml
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\PushNotifications\Bin\Debug\ApplicationIcon.png
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\PushNotifications\Bin\Debug\Background.png
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\PushNotifications\Bin\Debug\PushNotifications.dll
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\PushNotifications\Bin\Debug\PushNotifications.pdb
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\PushNotifications\Bin\Debug\AppManifest.xaml
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\PushNotifications\Bin\Debug\PushNotifications.xap
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\PushNotifications\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\PushNotifications\obj\Debug\App.g.i.cs
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\PushNotifications\obj\Debug\MainPage.g.i.cs
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\PushNotifications\obj\Debug\PushNotifications.g.resources
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\PushNotifications\obj\Debug\PushNotifications.dll
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\PushNotifications\obj\Debug\PushNotifications.pdb
+C:\Users\OM\Desktop\UPLOAD_SERVER\Day20-PushNotifications\PushNotifications\obj\Debug\XapCacheFile.xml
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PushNotifications\Bin\Debug\ApplicationIcon.png
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PushNotifications\Bin\Debug\Background.png
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PushNotifications\Bin\Debug\PushNotifications.dll
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PushNotifications\Bin\Debug\PushNotifications.pdb
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PushNotifications\Bin\Debug\AppManifest.xaml
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PushNotifications\Bin\Debug\PushNotifications.xap
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PushNotifications\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PushNotifications\obj\Debug\App.g.i.cs
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PushNotifications\obj\Debug\MainPage.g.i.cs
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PushNotifications\obj\Debug\PushNotifications.g.resources
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PushNotifications\obj\Debug\PushNotifications.dll
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PushNotifications\obj\Debug\PushNotifications.pdb
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PushNotifications\obj\Debug\XapCacheFile.xml
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\PushNotifications\Bin\Debug\ApplicationIcon.png
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\PushNotifications\Bin\Debug\Background.png
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\PushNotifications\Bin\Debug\PushNotifications.dll
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\PushNotifications\Bin\Debug\PushNotifications.pdb
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\PushNotifications\Bin\Debug\AppManifest.xaml
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\PushNotifications\Bin\Debug\PushNotifications.xap
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\PushNotifications\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\PushNotifications\obj\Debug\App.g.i.cs
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\PushNotifications\obj\Debug\MainPage.g.i.cs
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\PushNotifications\obj\Debug\PushNotifications.g.resources
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\PushNotifications\obj\Debug\PushNotifications.dll
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\PushNotifications\obj\Debug\PushNotifications.pdb
+C:\Users\OM\Desktop\UPLOAD_SERVER\PUSH NOTIFICATION SERVICE\PUSH NOTIFICATION SERVICE\PushNotifications\obj\Debug\XapCacheFile.xml
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\PushNotifications\Bin\Debug\ApplicationIcon.png
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\PushNotifications\Bin\Debug\Background.png
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\PushNotifications\Bin\Debug\PushNotifications.dll
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\PushNotifications\Bin\Debug\PushNotifications.pdb
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\PushNotifications\Bin\Debug\AppManifest.xaml
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\PushNotifications\Bin\Debug\PushNotifications.xap
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\PushNotifications\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\PushNotifications\obj\Debug\App.g.i.cs
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\PushNotifications\obj\Debug\MainPage.g.i.cs
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\PushNotifications\obj\Debug\PushNotifications.g.resources
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\PushNotifications\obj\Debug\PushNotifications.dll
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\PushNotifications\obj\Debug\PushNotifications.pdb
+C:\Users\Nikhil\Desktop\PUSH NOTIFICATION SERVICE\PushNotifications\obj\Debug\XapCacheFile.xml
